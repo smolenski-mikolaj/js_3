@@ -6,4 +6,4 @@ var halfLength = textCharsAfter.length/2;
 var partOfText = textCharsAfter.slice(0,halfLength);
 
 
-console.log (partOfText);
+console.log(partOfText);
